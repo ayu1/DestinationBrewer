@@ -5,3 +5,4 @@ Color palettes inspired by travel destinations around the world
 
 Color Palettes:
 
+Questions? Contact: ayu1@alumni.stanford.edu
